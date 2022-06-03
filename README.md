@@ -3,5 +3,5 @@
 > Status do projeto: Em desenvolvimento. 
 
 '''
-apt get update
+node app.js
 '''
